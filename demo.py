@@ -1,3 +1,5 @@
+__credits__ = ["Milo Spencer-Harper", "Siraj Raval"]
+
 from numpy import exp, array, random, dot
 
 
